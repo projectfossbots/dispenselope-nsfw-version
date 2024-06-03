@@ -1,6 +1,6 @@
 # Project FOSSBots - Dispenselope (NSFW Version) Chatbot
 "Because the people of the GNU and FOSS communities should enjoy Chatbots too!"
-#### // !!! Remember to give credit! \\\
+#### // !!! Remember to give credit! !!! \\\
 
 - Version 1.3 - Public Version
 - SAFE = FALSE
